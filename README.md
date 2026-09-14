@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  Estudiante de <b>Computación e Informática en Cibertec</b>[cite: 1] apasionado por la tecnología, el desarrollo de software y la creación de experiencias web y móviles robustas. Me enfoco en escribir código limpio, estructurado y en darles vida a proyectos escalables de extremo a extremo.
+  Estudiante de <b>Computación e Informática en Cibertec</b> apasionado por la tecnología, el desarrollo de software y la creación de experiencias web y móviles robustas. Me enfoco en escribir código limpio, estructurado y en darles vida a proyectos escalables de extremo a extremo.
 </p>
 
 <!-- Botones de Contacto Directo al Inicio -->
@@ -70,8 +70,8 @@
 ### 🚀 Proyectos Destacados
 
 * **[ChuteBoxe-MMA-Platform](https://github.com/EDFINO123/ChuteBoxe-MMA-Platform):** Plataforma web FullStack de MMA y gimnasio desarrollada con React 19, Node.js, Express, MongoDB y Tailwind CSS, con integración a la Octagon API.
-* **[Proyecto-Integrador-ServiceDesk](https://github.com/EDFINO123/Proyecto-Integrador-ServiceDesk):** Sistema Web de Service Desk con arquitectura robusta orientado a la gestión de tickets e incidencias técnicas (Cibertec 2026)[cite: 1].
-* **[El Buen Sabor](https://github.com/EDFINO123/ElBuenSabor-FullStack) (App Móvil & Web):** Solución FullStack para la gestión de pedidos de restaurantes con sincronización móvil en SQLite y panel administrativo centralizado[cite: 1].
+* **[Proyecto-Integrador-ServiceDesk](https://github.com/EDFINO123/Proyecto-Integrador-ServiceDesk):** Sistema Web de Service Desk con arquitectura robusta orientado a la gestión de tickets e incidencias técnicas (Cibertec 2026).
+* **[El Buen Sabor](https://github.com/EDFINO123/ElBuenSabor-FullStack) (App Móvil & Web):** Solución FullStack para la gestión de pedidos de restaurantes con sincronización móvil en SQLite y panel administrativo centralizado.
 
 ---
 
