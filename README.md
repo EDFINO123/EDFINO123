@@ -1,5 +1,21 @@
 <h1 align="center">¡Hola, qué tal! 👋 Soy Fabricio Sullca</h1>
 
+---
+
+### 📬 ¿Conectamos?
+
+<p align="center">
+  <a href="mailto:tu-correo@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+  </a>
+  <a href="https://linkedin.com/in/tu-usuario" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://wa.me/51999999999" target="_blank">
+    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" />
+  </a>
+</p>
+
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=20&duration=3500&pause=1000&color=38BDF8&center=true&vCenter=true&width=620&lines=Estudiante+de+Computación+e+Informática;Apasionado+por+el+Desarrollo+FullStack;Creando+soluciones+de+alto+rendimiento" alt="Typing Effect" />
 </p>
