@@ -49,7 +49,7 @@
 
 * **[ChuteBoxe-MMA-Platform](https://github.com/EDFINO123/ChuteBoxe-MMA-Platform):** Plataforma web FullStack de MMA y gimnasio desarrollada con React 19, Node.js, Express, MongoDB y Tailwind CSS, con integración a la Octagon API.
 * **[Proyecto-Integrador-ServiceDesk](https://github.com/EDFINO123/Proyecto-Integrador-ServiceDesk):** Sistema Web de Service Desk con arquitectura robusta orientado a la gestión de tickets e incidencias técnicas (Cibertec 2026)[cite: 1].
-* **El Buen Sabor (App Móvil & Web):** Solución FullStack para la gestión de pedidos de restaurantes con sincronización móvil en SQLite y panel administrativo centralizado[cite: 1].
+* **[El Buen Sabor](https://github.com/EDFINO123/ElBuenSabor-FullStack.git) (App Móvil & Web):** Solución FullStack para la gestión de pedidos de restaurantes con sincronización móvil en SQLite y panel administrativo centralizado[cite: 1].
 
 ---
 
