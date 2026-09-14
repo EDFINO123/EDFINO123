@@ -1,7 +1,7 @@
 <h1 align="center">¡Hola, qué tal! 👋 Soy Fabricio Sullca</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=3500&pause=1000&color=38BDF8&center=true&vCenter=true&width=500&lines=Estudiante+de+Computación+e+Informática;Apasionado+por+el+Desarrollo+FullStack;Creando+soluciones+de+alto+rendimiento" alt="Typing Effect" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=20&duration=3500&pause=1000&color=38BDF8&center=true&vCenter=true&width=620&lines=Estudiante+de+Computación+e+Informática;Apasionado+por+el+Desarrollo+FullStack;Creando+soluciones+de+alto+rendimiento" alt="Typing Effect" />
 </p>
 
 <p align="center">
@@ -49,12 +49,12 @@
 
 * **[ChuteBoxe-MMA-Platform](https://github.com/EDFINO123/ChuteBoxe-MMA-Platform):** Plataforma web FullStack de MMA y gimnasio desarrollada con React 19, Node.js, Express, MongoDB y Tailwind CSS, con integración a la Octagon API.
 * **[Proyecto-Integrador-ServiceDesk](https://github.com/EDFINO123/Proyecto-Integrador-ServiceDesk):** Sistema Web de Service Desk con arquitectura robusta orientado a la gestión de tickets e incidencias técnicas (Cibertec 2026)[cite: 1].
-* **[El Buen Sabor](https://github.com/EDFINO123/ElBuenSabor-FullStack.git) (App Móvil & Web):** Solución FullStack para la gestión de pedidos de restaurantes con sincronización móvil en SQLite y panel administrativo centralizado[cite: 1].
+* **[El Buen Sabor](https://github.com/EDFINO123/ElBuenSabor-FullStack) (App Móvil & Web):** Solución FullStack para la gestión de pedidos de restaurantes con sincronización móvil en SQLite y panel administrativo centralizado[cite: 1].
 
 ---
 
 ### 📊 Estadísticas de GitHub
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=EDFINO123&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=EDFINO123&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" alt="GitHub Stats" />
 </p>
