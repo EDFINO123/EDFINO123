@@ -1,9 +1,14 @@
 <h1 align="center">¡Hola, qué tal! 👋 Soy Fabricio Sullca</h1>
 
----
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=20&duration=3500&pause=1000&color=38BDF8&center=true&vCenter=true&width=620&lines=Estudiante+de+Computación+e+Informática;Apasionado+por+el+Desarrollo+FullStack;Creando+soluciones+de+alto+rendimiento" alt="Typing Effect" />
+</p>
 
-### 📬 ¿Conectamos?
+<p align="center">
+  Estudiante de <b>Computación e Informática en Cibertec</b>[cite: 1] apasionado por la tecnología, el desarrollo de software y la creación de experiencias web y móviles robustas. Me enfoco en escribir código limpio, estructurado y en darles vida a proyectos escalables de extremo a extremo.
+</p>
 
+<!-- Botones de Contacto Directo al Inicio -->
 <p align="center">
   <a href="mailto:tu-correo@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
@@ -14,14 +19,6 @@
   <a href="https://wa.me/51999999999" target="_blank">
     <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" />
   </a>
-</p>
-
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=20&duration=3500&pause=1000&color=38BDF8&center=true&vCenter=true&width=620&lines=Estudiante+de+Computación+e+Informática;Apasionado+por+el+Desarrollo+FullStack;Creando+soluciones+de+alto+rendimiento" alt="Typing Effect" />
-</p>
-
-<p align="center">
-  Estudiante de <b>Computación e Informática en Cibertec</b>[cite: 1] apasionado por la tecnología, el desarrollo de software y la creación de experiencias web y móviles robustas. Me enfoco en escribir código limpio, estructurado y en darles vida a proyectos escalables de extremo a extremo.
 </p>
 
 > *"El desarrollo es como el entrenamiento de alto rendimiento: requiere disciplina, constancia y nunca dejar de mejorar."*
