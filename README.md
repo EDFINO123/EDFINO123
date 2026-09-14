@@ -24,12 +24,13 @@
 ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat&logo=kotlin&logoColor=white)
 ![Swift](https://img.shields.io/badge/Swift-FA7343?style=flat&logo=swift&logoColor=white)
 
-#### ⚙️ Back-End
+#### ⚙️ Back-End & Servicios Web
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)
 ![Express](https://img.shields.io/badge/Express-000000?style=flat&logo=express&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat&logo=spring-boot&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=csharp&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat&logo=dotnet&logoColor=white)
 
 #### 🗄️ Bases de Datos & Gestores
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
@@ -38,10 +39,16 @@
 ![MariaDB](https://img.shields.io/badge/MariaDB-03589C?style=flat&logo=mariadb&logoColor=white)
 ![HeidiSQL](https://img.shields.io/badge/HeidiSQL-F0AD4E?style=flat&logo=datagrip&logoColor=white)
 
-#### 🛠️ Control de Versiones & Entornos
+#### 🧪 Testing & Calidad de Software
+![JUnit](https://img.shields.io/badge/JUnit5-25A162?style=flat&logo=junit5&logoColor=white)
+![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=flat&logo=selenium&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white)
+
+#### 🛠️ Control de Versiones & Gestión
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
 ![XML](https://img.shields.io/badge/XML-00599C?style=flat&logo=xml&logoColor=white)
+![Bizagi](https://img.shields.io/badge/Bizagi-0078D7?style=flat&logo=processwire&logoColor=white)
 
 ---
 
