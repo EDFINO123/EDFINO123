@@ -10,7 +10,7 @@
 
 <!-- Botones de Contacto Directo al Inicio -->
 <p align="center">
-  <a href="mailto:edwarsullca100@gmail.com">
+  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=edwarsullca100@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
   <a href="https://linkedin.com/in/edwar-sullca-6653a31b7" target="_blank">
