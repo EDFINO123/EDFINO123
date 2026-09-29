@@ -30,58 +30,48 @@
 ### 💻 Stack Tecnológico & Herramientas
 
 <div align="center">
-<table border="1" cellpadding="12" bgcolor="#17171c" width="100%">
+<table border="1" cellpadding="14" bgcolor="#17171c">
   <tbody>
     <tr>
-      <td width="50%" valign="top">
-        <b>🎨 Front-End & Mobile</b><br><br>
-        ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-        ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
-        ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-        ![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
-        ![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat&logo=angular&logoColor=white)
-        ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat&logo=tailwind-css&logoColor=white)
-        ![GSAP](https://img.shields.io/badge/GSAP-88CE02?style=flat&logo=greensock&logoColor=white)
-        ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat&logo=kotlin&logoColor=white)
-        ![Swift](https://img.shields.io/badge/Swift-FA7343?style=flat&logo=swift&logoColor=white)
+      <td width="50%" valign="top"><code>🎨 Front-End & Mobile:</code><br><br>
+        <img src="https://skillicons.dev/icons?i=html,css,js,react,angular,tailwind,kotlin,swift" alt="Front-End & Mobile">
+        <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/gsap.svg" height="33" alt="GSAP"><br>
+        <sub><code>HTML5 · CSS3 · JavaScript · React · Angular · TailwindCSS · Kotlin · Swift· GSAP</code></sub>
       </td>
-      <td width="50%" valign="top">
-        <b>⚙️ Back-End & Servicios Web</b><br><br>
-        ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)
-        ![Express](https://img.shields.io/badge/Express-000000?style=flat&logo=express&logoColor=white)
-        ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
-        ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat&logo=spring-boot&logoColor=white)
-        ![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=csharp&logoColor=white)
-        ![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat&logo=dotnet&logoColor=white)
+      <td width="50%" valign="top"><code>⚙️ Back-End & Servicios Web:</code><br><br>
+        <img src="https://skillicons.dev/icons?i=nodejs,express,java,spring,cs,dotnet" alt="Back-End"><br>
+        <sub><code>Node.js · Express · Java · Spring Boot · C# · .NET</code></sub>
       </td>
     </tr>
     <tr>
-      <td valign="top">
-        <b>🗄️ Bases de Datos & Gestores</b><br><br>
-        ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
-        ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
-        ![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=flat&logo=microsoft-sql-server&logoColor=white)
-        ![MariaDB](https://img.shields.io/badge/MariaDB-03589C?style=flat&logo=mariadb&logoColor=white)
-        ![HeidiSQL](https://img.shields.io/badge/HeidiSQL-F0AD4E?style=flat&logo=datagrip&logoColor=white)
+      <td valign="top"><code>🗄️ Bases de Datos & Gestores:</code><br><br>
+        <img src="https://skillicons.dev/icons?i=mongodb,mysql" alt="DBs">
+        <img src="https://thumb.wikimedia.org/wikipedia/commons/thumb/4/41/Microsoft_SQL_Server_2025_icon.svg/120px-Microsoft_SQL_Server_2025_icon.svg.png?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=thumbnail&_=20251031023944" height="48" alt="SQL Server">
+        <img src="https://logodownload.org/wp-content/uploads/2026/04/mariadb-logo-1.png" height="48" alt="MariaDB">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/3/32/HeidiSQL_logo_image.png?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=thumbnail_unscaled&_=20200307114522" height="48" alt="HeidiSQL"><br>
+        <sub><code>MongoDB · MySQL · SQL Server · MariaDB · HeidiSQL</code></sub>
       </td>
-      <td valign="top">
-        <b>🧪 Testing & Calidad de Software</b><br><br>
-        ![JUnit](https://img.shields.io/badge/JUnit5-25A162?style=flat&logo=junit5&logoColor=white)
-        ![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=flat&logo=selenium&logoColor=white)
-        ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white)
+      <td valign="top"><code>🧪 Testing & Calidad de Software:</code><br><br>
+        <img src="https://cdn.simpleicons.org/junit5/25A162" height="48" alt="JUnit">
+        <img src="https://skillicons.dev/icons?i=selenium,postman" alt="Testing"><br>
+        <sub><code>JUnit5 · Selenium · Postman</code></sub>
       </td>
     </tr>
     <tr>
-      <td colspan="2" valign="top">
-        <b>🛠️ Control de Versiones, Entornos & Modelado</b><br><br>
-        ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
-        ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
-        ![XML](https://img.shields.io/badge/XML-00599C?style=flat&logo=xml&logoColor=white)
-        ![Bizagi](https://img.shields.io/badge/Bizagi-0078D7?style=flat&logo=processwire&logoColor=white)
-        ![Rational Rhapsody](https://img.shields.io/badge/Rational%20Rhapsody-052FAD?style=flat&logo=ibm&logoColor=white)
+      <td colspan="2" valign="top"><code>🛠️ Control de Versiones, Entornos & Modelado:</code><br><br>
+        <img src="https://skillicons.dev/icons?i=git,github" alt="Tools">
+        <img src="https://cdn.simpleicons.org/xml/00599C" height="48" alt="XML">
+        <img src="https://img.utdstc.com/icon/4c9/33c/4c933cb96d4d64170e0c5e0e07e8e6fbc0ad8c2602728b6454f09ac1340e5f64:200" height="48" alt="Bizagi">
+        <img src="https://www.uc3m.es/sdic/media/sdic/img/mediana/original/im_ibm-rational-rhapsody---icono/im_ibm-rational-rhapsody---icono.png" height="48" alt="Rational Rhapsody"><br>
+        <sub><code>Git · GitHub · XML · Bizagi · Rational Rhapsody</code></sub>
       </td>
     </tr>
   </tbody>
+  <tfoot>
+    <tr>
+      <td colspan="2"><code>status: ready&nbsp;&nbsp;·&nbsp;&nbsp;environment: production</code></td>
+    </tr>
+  </tfoot>
 </table>
 </div>
 
