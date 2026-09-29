@@ -1,14 +1,14 @@
 <div align="center">
 
 <a href="https://github.com/EDFINO123">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=3500&pause=1000&color=38BDF8&center=true&vCenter=true&width=800&lines=Estudiante+de+Computación+e+Informática+%7C+Cibertec;Desarrollador+Full-Stack+%26+Arquitectura+Web;Creando+soluciones+de+alto+rendimiento" alt="Typing Effect" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=20&duration=3500&pause=1000&color=38BDF8&center=true&vCenter=true&width=620&lines=Estudiante+de+Computación+e+Informática;Apasionado+por+el+Desarrollo+FullStack;Creando+soluciones+de+alto+rendimiento" alt="Typing Effect" />
 </a>
 
 <p align="center">
   Estudiante de <b>Computación e Informática en Cibertec</b> apasionado por la tecnología, el desarrollo de software y la creación de experiencias web y móviles robustas. Me enfoco en escribir código limpio, estructurado y en darles vida a proyectos escalables de extremo a extremo.
 </p>
 
-<!-- Botones de Contacto Directo -->
+<!-- Botones de Contacto Directo al Inicio -->
 <p align="center">
   <a href="https://mail.google.com/mail/?view=cm&fs=1&to=edwarsullca100@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
@@ -27,20 +27,58 @@
 
 ---
 
-## `$ whoami`
+### 💻 Stack Tecnológico & Herramientas
 
 <div align="center">
-<table border="1" cellpadding="14" bgcolor="#17171c" width="100%">
+<table border="1" cellpadding="12" bgcolor="#17171c" width="100%">
   <tbody>
     <tr>
-      <td>
-        <code>EDFINO123:~$ cat profile.json</code><br><br>
-        <code>{</code><br>
-        <code>  &nbsp;&nbsp;"name": "Fabricio Edwar Sullca Sánchez",</code><br>
-        <code>  &nbsp;&nbsp;"role": "Full-Stack Developer & Tech Lead",</code><br>
-        <code>  &nbsp;&nbsp;"institution": "Cibertec (Lima, Perú)",</code><br>
-        <code>  &nbsp;&nbsp;"focus": ["Spring Boot 3", ".NET Core", "Angular 21", "React", "Cloud Architecture"]</code><br>
-        <code>}</code>
+      <td width="50%" valign="top">
+        <b>🎨 Front-End & Mobile</b><br><br>
+        ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+        ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+        ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+        ![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
+        ![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat&logo=angular&logoColor=white)
+        ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat&logo=tailwind-css&logoColor=white)
+        ![GSAP](https://img.shields.io/badge/GSAP-88CE02?style=flat&logo=greensock&logoColor=white)
+        ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat&logo=kotlin&logoColor=white)
+        ![Swift](https://img.shields.io/badge/Swift-FA7343?style=flat&logo=swift&logoColor=white)
+      </td>
+      <td width="50%" valign="top">
+        <b>⚙️ Back-End & Servicios Web</b><br><br>
+        ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)
+        ![Express](https://img.shields.io/badge/Express-000000?style=flat&logo=express&logoColor=white)
+        ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
+        ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat&logo=spring-boot&logoColor=white)
+        ![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=csharp&logoColor=white)
+        ![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat&logo=dotnet&logoColor=white)
+      </td>
+    </tr>
+    <tr>
+      <td valign="top">
+        <b>🗄️ Bases de Datos & Gestores</b><br><br>
+        ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
+        ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
+        ![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=flat&logo=microsoft-sql-server&logoColor=white)
+        ![MariaDB](https://img.shields.io/badge/MariaDB-03589C?style=flat&logo=mariadb&logoColor=white)
+        ![HeidiSQL](https://img.shields.io/badge/HeidiSQL-F0AD4E?style=flat&logo=datagrip&logoColor=white)
+      </td>
+      <td valign="top">
+        <b>🧪 Testing & Calidad de Software</b><br><br>
+        ![JUnit](https://img.shields.io/badge/JUnit5-25A162?style=flat&logo=junit5&logoColor=white)
+        ![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=flat&logo=selenium&logoColor=white)
+        ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white)
+      </td>
+    </tr>
+    <tr>
+      <td colspan="2" valign="top">
+        <b>🛠️ Control de Versiones, Entornos & Modelado</b><br><br>
+        ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+        ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
+        ![XML](https://img.shields.io/badge/XML-00599C?style=flat&logo=xml&logoColor=white)
+        ![Bizagi](https://img.shields.io/badge/Bizagi-0078D7?style=flat&logo=processwire&logoColor=white)
+        ![Rational Rhapsody](https://img.shields.io/badge/Rational%20Rhapsody-052FAD?style=flat&logo=ibm&logoColor=white)
       </td>
     </tr>
   </tbody>
@@ -49,85 +87,16 @@
 
 ---
 
-<div align="center">
+### 🚀 Proyectos Destacados
 
-## `$ cat tech-stack.yaml`
-
-<table border="1" cellpadding="14" bgcolor="#17171c">
-  <thead>
-    <tr>
-      <th colspan="2" align="left"><code>EDFINO123:~$ cat tech-stack.yaml</code></th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td width="50%" valign="top"><code>├─ 🎨 frontend_mobile:</code><br><br>
-        <img src="https://skillicons.dev/icons?i=html,css,js,react,angular,tailwind,kotlin,swift" alt="Frontend y Mobile Tech"><br>
-        <sub><code>HTML · CSS · JavaScript · React · Angular · Tailwind · Kotlin · Swift</code></sub>
-      </td>
-      <td width="50%" valign="top"><code>├─ ⚙️ backend_services:</code><br><br>
-        <img src="https://skillicons.dev/icons?i=nodejs,express,java,spring,cs,dotnet" alt="Backend Tech"><br>
-        <sub><code>Node.js · Express · Java · Spring Boot · C# · .NET</code></sub>
-      </td>
-    </tr>
-    <tr>
-      <td valign="top"><code>├─ 🗄️ databases_tools:</code><br><br>
-        <img src="https://skillicons.dev/icons?i=mongodb,mysql,git,github,postman" alt="Databases y Herramientas"><br>
-        <sub><code>MongoDB · MySQL · SQL Server · Git · GitHub · Postman</code></sub>
-      </td>
-      <td valign="top"><code>╰─ 🛠️ testing_architecture:</code><br><br>
-        <img src="https://skillicons.dev/icons?i=selenium,docker,nginx,linux" alt="Testing e Infraestructura"><br>
-        <sub><code>JUnit · Selenium · Docker · NGINX · Bizagi · UML</code></sub>
-      </td>
-    </tr>
-  </tbody>
-  <tfoot>
-    <tr>
-      <td colspan="2"><code>status: ready&nbsp;&nbsp;·&nbsp;&nbsp;environment: production</code></td>
-    </tr>
-  </tfoot>
-</table>
-
-</div>
+* **[ChuteBoxe-MMA-Platform](https://github.com/EDFINO123/ChuteBoxe-MMA-Platform):** Plataforma web FullStack de MMA y gimnasio desarrollada con React 19, Node.js, Express, MongoDB y Tailwind CSS, con integración a la Octagon API.
+* **[Proyecto-Integrador-ServiceDesk](https://github.com/EDFINO123/Proyecto-Integrador-ServiceDesk):** Sistema Web de Service Desk con arquitectura robusta orientado a la gestión de tickets e incidencias técnicas (Cibertec 2026).
+* **[El Buen Sabor](https://github.com/EDFINO123/ElBuenSabor-FullStack) (App Móvil & Web):** Solución FullStack para la gestión de pedidos de restaurantes con sincronización móvil en SQLite y panel administrativo centralizado.
 
 ---
 
-## `$ cat projects.md`
-
-* **[ChuteBoxe MMA Platform](https://github.com/EDFINO123/ChuteBoxe-MMA-Platform):** Plataforma web Full-Stack desarrollada con React 19, Node.js, Express, MongoDB y Tailwind, integrando la Octagon API para datos en tiempo real.
-* **[Sistema Web Service Desk (Alta Disponibilidad)](https://github.com/EDFINO123/Proyecto-Integrador-ServiceDesk):** Proyecto integrador con Java 21, Spring Boot 3, Spring Security (JWT), MySQL, Angular 21, NGINX Load Balancer y Docker.
-* **[El Buen Sabor (App Móvil & Web)](https://github.com/EDFINO123/ElBuenSabor-FullStack):** Solución Full-Stack para gestión de pedidos de restaurantes con sincronización móvil en SQLite y panel administrativo centralizado.
-
----
-
-## `$ git stats --summary`
+### 📊 Estadísticas de GitHub
 
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=EDFINO123&theme=tokyonight" alt="GitHub Summary Card" />
 </p>
-
----
-
-<!-- SOCIALS -->
-## `$ connect --socials`
-
-<div align="center">
-
-<a href="https://mail.google.com/mail/?view=cm&fs=1&to=edwarsullca100@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
-</a>&nbsp;&nbsp;
-<a href="https://linkedin.com/in/edwar-sullca-6653a31b7">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-</a>&nbsp;&nbsp;
-<a href="https://github.com/EDFINO123">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
-</a>
-
-</div>
-
-<br>
-<br>
-
-<div align="center">
-<sub>Hecho con ⚡ y código limpio desde Lima, Perú · @EDFINO123</sub>
-</div>
