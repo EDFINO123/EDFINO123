@@ -13,7 +13,7 @@
   <a href="https://mail.google.com/mail/?view=cm&fs=1&to=edwarsullca100@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
   </a>&nbsp;&nbsp;
-  <a href="www.linkedin.com/in/fabricio-edwar-sullca-sanchez-6653a31b7" target="_blank">
+  <a href="https://www.linkedin.com/in/fabricio-edwar-sullca-sanchez-6653a31b7/?isSelfProfile=true" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>&nbsp;&nbsp;
   <a href="https://wa.me/51948189634" target="_blank">
