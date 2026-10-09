@@ -79,9 +79,31 @@
 
 ### 🚀 Proyectos Destacados
 
-* **[ChuteBoxe-MMA-Platform](https://github.com/EDFINO123/ChuteBoxe-MMA-Platform):** Plataforma web FullStack de MMA y gimnasio desarrollada con React 19, Node.js, Express, MongoDB y Tailwind CSS, con integración a la Octagon API.
-* **[Proyecto-Integrador-ServiceDesk](https://github.com/EDFINO123/Proyecto-Integrador-ServiceDesk):** Sistema Web de Service Desk con arquitectura robusta orientado a la gestión de tickets e incidencias técnicas (Cibertec 2026).
-* **[El Buen Sabor](https://github.com/EDFINO123/ElBuenSabor-FullStack) (App Móvil & Web):** Solución FullStack para la gestión de pedidos de restaurantes con sincronización móvil en SQLite y panel administrativo centralizado.
+<table border="1" cellpadding="12" bgcolor="#17171c" width="100%">
+  <tbody>
+    <tr>
+      <td valign="top">
+        <b>🥊 <a href="https://github.com/EDFINO123/ChuteBoxe-MMA-Platform">ChuteBoxe MMA Platform</a></b><br>
+        <sub><code>React 19</code> · <code>Node.js</code> · <code>Express</code> · <code>MongoDB</code> · <code>Tailwind</code></sub>
+        <p>Plataforma web Full-Stack de MMA y gimnasio con consumo en tiempo real de la Octagon API para eventos y peleadores.</p>
+      </td>
+    </tr>
+    <tr>
+      <td valign="top">
+        <b>⚙️ <a href="https://github.com/EDFINO123/Proyecto-Integrador-ServiceDesk">Sistema Web Service Desk (Alta Disponibilidad)</a></b><br>
+        <sub><code>Java 21</code> · <code>Spring Boot 3</code> · <code>Angular 21</code> · <code>Docker</code> · <code>NGINX</code></sub>
+        <p>Proyecto integrador con arquitectura robusta de alta disponibilidad, autenticación JWT, balanceo de carga y segmentación por VLANs.</p>
+      </td>
+    </tr>
+    <tr>
+      <td valign="top">
+        <b>🍔 <a href="https://github.com/EDFINO123/ElBuenSabor-FullStack">El Buen Sabor (App Móvil & Web)</a></b><br>
+        <sub><code>Full-Stack</code> · <code>SQLite</code> · <code>Panel Admin</code></sub>
+        <p>Solución integral orientada a la gestión de pedidos para restaurantes, con sincronización móvil local y panel administrativo centralizado.</p>
+      </td>
+    </tr>
+  </tbody>
+</table>
 
 ---
 
